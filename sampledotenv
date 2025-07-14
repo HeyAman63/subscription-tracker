@@ -1,0 +1,41 @@
+#// port 
+
+PORT=5500
+SERVER_URL='http://localhost:5500'
+
+#// database
+
+MONGODB_URI=""
+
+#//Enviornment
+
+NODE_ENV="Development"
+
+// jwt auth 
+
+JWT_SECRET = 'secret'
+JWT_EXPIRES_IN = '1d'
+
+# // arkjet
+
+ARCJET_KEY =''
+ARCJET_ENV="development"
+
+# jwt token = 
+# _id = 
+
+
+# Upstash for workflow =>
+
+# Local credentials
+
+QSTASH_URL=http://127.0.0.1:8080
+QSTASH_TOKEN=
+QSTASH_CURRENT_SIGNING_KEY=
+QSTASH_NEXT_SIGNING_KEY=
+
+#nodemailer
+
+EMAIL_PASSWORD=""
+
+
